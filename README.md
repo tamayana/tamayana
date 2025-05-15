@@ -20,7 +20,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
 
 <a href="https://www.facebook.com/profile.php?id=100075907268392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tama" height="30" width="40" /></a>
-<a href="https://instagram.com/mctamaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prtma_282" height="30" width="40" /></a>
+<a href="https://instagram.com/mctamaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mctamaaa" height="30" width="40" /></a>
 </p>
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6282352397935?text=halo+bang+Tama+ganteng)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/tama_282)
@@ -74,7 +74,7 @@ Blade Template             43 hrs 45 mins  ▓░░░░░░░░░░░�
         <section class="sosial-media">
             <h2>Ikuti Saya di Sosial Media</h2>
             <ul>
-                <li><a href="https://www.instagram.com/mctamaa" target="_blank">Instagram</a></li>
+                <li><a href="https://www.instagram.com/mctamaaa" target="_blank">Instagram</a></li>
                 <li><a href="https://wa.me/082352397935" target="_blank">WhatsApp</a></li>
             </ul>
         </section>

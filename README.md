@@ -84,3 +84,15 @@ Blade Template             43 hrs 45 mins  ▓░░░░░░░░░░░�
     </footer>
 </body>
 </html>
+            <h2>Sosial media kanjeng Ratu euyyy🗿🙏</h2>
+            <ul>
+                <li><a href="https://www.instagram.com/mokii00_" target="_blank">Instagram</a></li>
+                <li><a href="https://wa.me/081549240826" target="_blank">WhatsApp</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Yana. Semua hak cipta dilindungi.</p>
+    </footer>
+</body>
+</html>

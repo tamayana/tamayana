@@ -23,7 +23,7 @@
 <a href="https://instagram.com/mctamaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mctamaaa" height="30" width="40" /></a>
 </p>
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6282352397935?text=halo+bang+Tama+ganteng)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/tama_282)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285393659857?text=halo+bang+Tama+ganteng)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/tama_282)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20"/>&nbsp;Just Random Stats & Activity
 
@@ -75,7 +75,7 @@ Blade Template             43 hrs 45 mins  ▓░░░░░░░░░░░�
             <h2>Ikuti Saya di Sosial Media</h2>
             <ul>
                 <li><a href="https://www.instagram.com/mctamaaa" target="_blank">Instagram</a></li>
-                <li><a href="https://wa.me/082352397935" target="_blank">WhatsApp</a></li>
+                <li><a href="https://wa.me/085393659857" target="_blank">WhatsApp</a></li>
             </ul>
         </section>
     </main>

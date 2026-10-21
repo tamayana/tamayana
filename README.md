@@ -21,7 +21,6 @@
 <a href="https://www.facebook.com/profile.php?id=100075907268392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tama" height="30" width="40" /></a>
 <a href="https://instagram.com/mctamaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mctamaaa" height="30" width="40" /></a>
 </p>
-
 <a href="https://tamayana.github.io/tama-music/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="soundcloud" height="30" width="40" /></a>
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285393659857?text=halo+bang+Tama+ganteng)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/tama_282)

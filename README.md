@@ -23,10 +23,10 @@
 <a href="https://instagram.com/mctamaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mctamaaa" height="30" width="40" /></a>
 </p>
 
+<a href="https://tamayana.github.io/tama-music/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="soundcloud" height="30" width="40" /></a>
+
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285393659857?text=halo+bang+Tama+ganteng)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/tama_282)
-
-<a href="https://tamayana.github.io/tama-music/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="soundcloud" height="30" width="40" /></a> 
-
+ 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20"/>&nbsp;Just Random Stats & Activity
 
 [![An image of @abnvlf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abnvlf)](https://holopin.io/@abnvlf)

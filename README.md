@@ -76,7 +76,7 @@ Blade Template             43 hrs 45 mins  ▓░░░░░░░░░░░�
             <h2>Ikuti Saya di Sosial Media</h2>
             <ul>
                 <li><a href="https://www.instagram.com/mctamaaa" target="_blank">Instagram</a></li>
-                <li><a href="https://wa.me/085393659857" target="_blank">WhatsApp</a></li>
+                <li><a href="https://wa.me/@mctamaaa" target="_blank">WhatsApp</a></li>
             </ul>
         </section>
     </main>

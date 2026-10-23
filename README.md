@@ -11,7 +11,7 @@
 
 <h3 align="center">Dari Indonesia</h3>
 </p>
-<h1 align="center">★ TAMA&YANA ★ <img  src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
+<h1 align="center">★ TAMA ★ <img  src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
@@ -52,49 +52,8 @@ Blade Template             43 hrs 45 mins  ▓░░░░░░░░░░░�
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markzuckerberg-kode&label=Profile%20views&color=0e75b6&style=flat" alt="markzuckerberg-kode" /> </p>
 
-
-    <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Rahmad Pratama</h1>
-    </header>
-    <main>
-        <section class="intro">
-            <h2>Selamat Datang di Blog Saya!</h2>
-            <p>Nama saya Tama dan ini adalah blog pribadi saya. Di sini saya akan berbagi tentang berbagai hal yang saya sukai.</p>
-        </section>
-        <section class="hobi">
-            <h2>Hobi Saya</h2>
-            <p>bermain mobile Legends dan bermain gitar .</p>
-        </section>
-        <section class="musik">
-            <h2>Musik dan Spotify</h2>
-            <p>Saya suka mendengarkan musik di Spotify. Anda bisa mengikuti playlist favorit saya di <a href="https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw?si=1EhH3yUhQTa4Um91rMARuA" target="_blank">Spotify</a>.</p>
-        </section>
-        <section class="sosial-media">
-            <h2>Ikuti Saya di Sosial Media</h2>
-            <ul>
-                <li><a href="https://www.instagram.com/mctamaaa" target="_blank">Instagram</a></li>
-                <li><a href="https://wa.me/@mctamaaa" target="_blank">WhatsApp</a></li>
-            </ul>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Tama. Semua hak cipta dilindungi.</p>
-    </footer>
-</body>
-</html>
-            <h2>Sosial media kanjeng Ratu euyyy🗿🙏</h2>
-            <ul>
-                <li><a href="https://www.instagram.com/mokii00_" target="_blank">Instagram</a></li>
-                <li><a href="https://wa.me/6281549240826" target="_blank">WhatsApp</a></li>
-            </ul>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2025 Yana. Semua hak cipta dilindungi.</p>
-    </footer>
-</body>
-</html>
-
+       

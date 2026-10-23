@@ -51,7 +51,6 @@ Blade Template             43 hrs 45 mins  ▓░░░░░░░░░░░�
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markzuckerberg-kode&label=Profile%20views&color=0e75b6&style=flat" alt="markzuckerberg-kode" /> </p>
-
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>

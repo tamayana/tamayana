@@ -69,9 +69,7 @@ create one yourself."
 
 <img src="https://streak-stats.demolab.com?user=tamayana&theme=tokyonight&hide_border=true&background=000000" alt="streak" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=tamayana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="stats" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamayana&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" alt="langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamayana&theme=tokyonight" alt="profile" />
 
 </div>
 

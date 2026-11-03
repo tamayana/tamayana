@@ -1,6 +1,17 @@
+<div align="center">
+
 <img src="mr-tamaaa-desk.gif" width="100%" alt="Mr.Tamaaa Desk - Pontianak" />
 
-<div align="center">
+<!-- JAM DI TITIK MERAH - LANGSUNG BAWAH KURSI TAMA -->
+<br/>
+
+### 🕒 <!-- PONTIANAK_TIME --> 2026-11-03 10:15:23 WIB
+
+**Pontianak, Kalimantan Barat - Kota Khatulistiwa**
+<br/>
+*Asia/Pontianak - Waktu Indonesia Barat*
+
+---
 
 # I'm Mr.Tamaaa
 
@@ -14,12 +25,26 @@
 ---
 
 ### 🔗 CONNECT WITH ME
-<p align="center">
-  <a href="https://instagram.com/tamayana"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://tiktok.com/@tamayana"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://wa.me/628xxxxxxxxxx"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://soundcloud.com/tamayana"><img src="https://img.shields.io/badge/SOUNDCLOUD-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
-</p>
+
+<div align="center">
+
+<a href="https://www.instagram.com/mctamaaa?exln=MWFrMG11M2lxOWlldg%3D%3D&utm_source=qr">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@mctama?_r=1&_t=ZS-9B5NKXr9cCP">
+  <img src="https://cdn.simpleicons.org/tiktok/000000" width="50" height="50" alt="TikTok" />
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/6285393659857?text=hai%20tamaaa">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50" height="50" alt="WhatsApp" />
+</a>
+&nbsp;&nbsp;
+<a href="https://on.soundcloud.com/D6Y0e8IX6a70Tyxytt">
+  <img src="https://cdn.simpleicons.org/soundcloud/FF3300" width="50" height="50" alt="SoundCloud" />
+</a>
+
+</div>
 
 ---
 
@@ -27,29 +52,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,linux,html,js,php,c,cpp,cs,unity,vscode,github" />
 </p>
-
----
-
-### 💻 MY SETUP - PONTIANAK EXPLORER
-
-<div align="center">
-
-<img src="mr-tamaaa-desk.gif" width="800" alt="Mr.Tamaaa Desk - Dual Monitor Peta Indonesia Pontianak" />
-
-**Mr.Tamaaa Desk | Dual Monitor | Peta Indonesia | Pin Pontianak, West Kalimantan**
-
-<br/><br/>
-
-<!-- JAM PONTIANAK - UPDATE OTOMATIS WIB -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FPontianak&query=%24.datetime&label=Pontianak%20WIB%20-%20Kota%20Khatulistiwa&color=9F7AEA&style=for-the-badge" alt="Pontianak Time" />
-
-<br/>
-
-![Pontianak Clock](https://time.akamori.me/api/clock?tz=Asia%2FPontianak&format=24h&image=true&width=350&bg=0D1117&color=9F7AEA)
-
-**Asia/Pontianak - Waktu Indonesia Barat**
-
-</div>
 
 ---
 
@@ -78,9 +80,5 @@
 <div align="center">
 
 **Mr.Tamaaa | Pontianak - Kota Khatulistiwa**
-
-<!-- PONTIANAK_TIME -->
-*Last updated: 2026-11-03 09:58:21 WIB - Pontianak, Kota Khatulistiwa*
-*Last updated: Pontianak Time*
 
 </div>

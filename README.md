@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="mr-tamaaa-desk.gif" width="100%" alt="Mr.Tamaaa Desk - Pontianak" />
+<img src="https://raw.githubusercontent.com/tamayana/tamayana/main/mr-tamaaa-desk.gif" width="100%" alt="Mr.Tamaaa Desk" />
 
-### 🕒 <!-- PONTIANAK_TIME --> 2026-11-03 10:32:15 WIB
-
-**Pontianak, Kalimantan Barat - Kota Khatulistiwa**
-<br/>
-*Asia/Pontianak - Waktu Indonesia Barat*
+<!-- CLOCK_START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🕒_10%3A32%3A15_WIB-8A2BE2?style=for-the-badge&labelColor=000000&logo=clockify&logoColor=white" alt="time" />
+</p>
+<!-- CLOCK_END -->
 
 ---
 
 # I'm Mr.Tamaaa
 
-### Pontianak | West Kalimantan | Explorer
+### Explorer | Builder | Learner
 
 </div>
 
@@ -22,7 +22,7 @@ possess a strong desire to share this information with others—
 explaining it to people whose only qualification might be a 
 genuine eagerness to learn. If you cannot find a path, 
 create one yourself."
-— Mr.Tamaaa | Pontianak, West Kalimantan
+— Mr.Tamaaa
 </code></pre>
 
 ---
@@ -65,8 +65,6 @@ create one yourself."
 
 <img src="mr_tamaaa_typing.gif" width="600" alt="Mr.Tamaaa typing animation" />
 
-*Mr.Tamaaa typing + code scrolling + peta Pontianak*
-
 </div>
 
 ---
@@ -95,6 +93,8 @@ create one yourself."
 
 <div align="center">
 
-**Mr.Tamaaa**
+**© 2026 Rahmad Pratama. All Rights Reserved.**
+
+*Hak Cipta Dilindungi Undang-Undang*
 
 </div>

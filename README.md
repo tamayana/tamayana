@@ -1,11 +1,10 @@
-<img src="mr-tamaaa-desk.gif" width="100%" alt="Mr.Tamaaa Desk - Pontianak Animated" />
+<img src="mr-tamaaa-desk.gif" width="100%" alt="Mr.Tamaaa Desk - Pontianak" />
 
 <div align="center">
 
 # I'm Mr.Tamaaa
-### Pontianak | West Kalimantan | Explorer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Exploring+technology+through+code...;Building+from+Pontianak+to+the+world;Kopi+%2B+Ngoding+%3D+Mantap)](https://git.io/typing-svg)
+### Pontianak | West Kalimantan | Explorer
 
 </div>
 
@@ -16,10 +15,10 @@
 
 ### 🔗 CONNECT WITH ME
 <p align="center">
-  <a href="https://instagram.com/tamayana"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://tiktok.com/@tamayana"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a>
-  <a href="https://wa.me/628xxxxxxxxxx"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://soundcloud.com/tamayana"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
+  <a href="https://instagram.com/tamayana"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@tamayana"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://wa.me/628xxxxxxxxxx"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://soundcloud.com/tamayana"><img src="https://img.shields.io/badge/SOUNDCLOUD-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 </p>
 
 ---
@@ -35,15 +34,20 @@
 
 <div align="center">
 
-<img src="mr-tamaaa-desk.gif" width="800" alt="Mr.Tamaaa Desk - Indonesia Map Pontianak" />
+<img src="mr-tamaaa-desk.gif" width="800" alt="Mr.Tamaaa Desk - Dual Monitor Peta Indonesia Pontianak" />
 
 **Mr.Tamaaa Desk | Dual Monitor | Peta Indonesia | Pin Pontianak, West Kalimantan**
 
 <br/><br/>
 
-<img src="mr_tamaaa_typing.gif" width="800" alt="Mr.Tamaaa typing animation - code scrolling, Indonesia map" />
+<!-- JAM PONTIANAK - UPDATE OTOMATIS WIB -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAsia%2FPontianak&query=%24.datetime&label=Pontianak%20WIB%20-%20Kota%20Khatulistiwa&color=9F7AEA&style=for-the-badge" alt="Pontianak Time" />
 
-*Animasi: Orang ngetik + kode kanan scroll terus + peta Indonesia pin Pontianak | Mr.Tamaaa + hacker icon di dalam monitor kiri*
+<br/>
+
+![Pontianak Clock](https://time.akamori.me/api/clock?tz=Asia%2FPontianak&format=24h&image=true&width=350&bg=0D1117&color=9F7AEA)
+
+**Asia/Pontianak - Waktu Indonesia Barat**
 
 </div>
 
@@ -73,8 +77,9 @@
 
 <div align="center">
 
-**Mr.Tamaaa | Pontianak - Kota Khatulistiwa | 23:47 WIB**
+**Mr.Tamaaa | Pontianak - Kota Khatulistiwa**
 
-*Kopi + Ngoding = Mantap*
+<!-- PONTIANAK_TIME -->
+*Last updated: Pontianak Time*
 
 </div>

@@ -6,6 +6,12 @@
 
 # I'm Mr.Tamaaa
 
+<h1 align="center">I'm Mr.Tamaaa</h1>
+
+<p align="center">
+  <img src="./java.gif" width="450" />
+</p>
+
 ### Explorer | Builder | Learner
 
 </div>

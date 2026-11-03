@@ -1,7 +1,7 @@
 name: Clock WIB Aesthetic
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/2 * * * *' # tiap 2 menit (biar gak kena limit GitHub)
   workflow_dispatch:
 
 jobs:
@@ -9,16 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update Aesthetic Clock Badge
+      - name: Update Clock
         run: |
-          TIME_NOW=$(TZ='Asia/Pontianak' date '+%H:%M:%S')
+          TIME_NOW=$(TZ='Asia/Pontianak' date '+%H:%M WIB')
           DATE_NOW=$(TZ='Asia/Pontianak' date '+%Y-%m-%d')
-          # ganti badge jam jadi estetik for-the-badge ungu
-          sed -i "s|badge/🕒_.*_WIB|badge/🕒_${TIME_NOW}_WIB|g" README.md
+          # format buat shields: 11:43_WIB -> 11%3A43_WIB
+          TIME_BADGE=$(echo $TIME_NOW | sed 's/:/%3A/g' | sed 's/ /_/g')
+          sed -i "s|badge/🕒_.*_WIB|badge/🕒_${TIME_BADGE}|g" README.md
       - name: Commit
         run: |
           git config user.name "Mr.Tamaaa Bot"
           git config user.email "bot@tamayana"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "⏰ $TIME_NOW WIB"
+          git diff --quiet && git diff --staged --quiet || git commit -m "⏰ $TIME_NOW"
           git push

@@ -1,7 +1,7 @@
-name: Pontianak Clock Updater
+name: Pontianak Clock WIB
 on:
   schedule:
-    - cron: '* * * * *' # tiap menit
+    - cron: '* * * * *' # update tiap menit
   workflow_dispatch:
 
 jobs:
@@ -9,14 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update Pontianak Time
+      - name: Update Pontianak Time HH:MM:SS WIB
         run: |
-          PONTIANAK_TIME=$(TZ='Asia/Pontianak' date '+%Y-%m-%d %H:%M:%S WIB - Pontianak, Kota Khatulistiwa')
-          sed -i "s/<!-- PONTIANAK_TIME -->.*$/<!-- PONTIANAK_TIME -->\n*Last updated: $PONTIANAK_TIME*/" README.md
+          PONTIANAK_TIME=$(TZ='Asia/Pontianak' date '+%Y-%m-%d %H:%M:%S WIB')
+          sed -i "s/<!-- PONTIANAK_TIME -->.*/<!-- PONTIANAK_TIME --> $PONTIANAK_TIME/" README.md
       - name: Commit
         run: |
           git config user.name "Mr.Tamaaa Bot"
           git config user.email "bot@tamayana.pontianak"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "⏰ Update Pontianak time: $(TZ='Asia/Pontianak' date)"
+          git diff --quiet && git diff --staged --quiet || git commit -m "⏰ $PONTIANAK_TIME"
           git push

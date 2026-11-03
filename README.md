@@ -1,58 +1,77 @@
-</i></b></h3>
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-&nbsp; 𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕄𝕐 ℙℝ𝕆𝔽𝕀𝕃𝔼 &nbsp; 
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+<!-- BANNER ATAS + ULAR KECIL GERAK -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:6d28d9&text=Welcome%20to%20my%20profile&fontAlign=50&fontAlignY=35&desc=I'm%20Mr.Tamaaa&descAlign=50&descAlignY=55&fontColor=ffffff&textColor=ffffff&animation=fadeIn" width="100%"/>
 
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+MR+TAMA+Jangan+Lupa+Follow)](https://git.io/typing-svg)
+<!-- TYPING + ULAR PYTHON SLITHER -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=I'm+Mr.Tamaaa;Developer+%7C+Explorer+%7C+Creator;Code.+Build.+Hack.+Repeat." alt="Typing SVG" /></a>
 
-<h1 align="center">ℍ𝕚 👋, 𝕀'𝕞 𝕄𝕣𝕋𝕒𝕞𝕒</h1>
+<br/>
 
-<h3 align="center">Dari Indonesia</h3>
+<!-- ULAR PYTHON GERAK SANA SINI -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e448a021-0d7c-472b-95a7-0a042a4d45fe.gif" width="100%" alt="python snake moving">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-5e443bfd-6a10-43dd-8d45-8305fd8b8d6d.gif" width="400" alt="snake">
+
+<br/>
+
+<!-- ORANG DUDUK NGETIK -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding">
+
+<br/>
+
+<!-- TERMINAL MR.TAMAAA -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=FFFFFF&background=00000000&center=true&width=700&lines=%24+whoami+%3E+Mr.Tamaaa;%24+python+--version;%24+echo+%22Hacking+the+future...%22" alt="terminal"/>
+
+<br/><br/>
+
+> *"What hackers do is explore technology and experiment with it in ways that many people have never even imagined. They also possess a strong desire to share this information with others—explaining it to people whose only qualification might be a genuine eagerness to learn.<br>If you cannot find a path, create one yourself."*
+> <br/>— **Mr.Tamaaa**
+
+<br/>
+
+<!-- CODE MATRIX -->
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6a.gif" width="400">
+
+<br/><br/>
+
+### CONNECT WITH ME
+<p>
+<a href="https://www.instagram.com/mctamaaa" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="ig"/></a>
+<a href="https://www.tiktok.com/@mctama" target="_blank"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="55" height="55" alt="tiktok"/></a>
+<a href="https://wa.me/6285393659857" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="55" height="55" alt="wa"/></a>
+<a href="https://on.soundcloud.com/b8qiteb7n6xjigZAPM" target="_blank"><img src="https://cdn.simpleicons.org/soundcloud/FF5500" width="55" height="55" alt="sc"/></a>
 </p>
-<h1 align="center">★ TAMA ★ <img  src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 
-![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+<br/>
 
-<h3 align="left">𝕞𝕪 𝕤𝕠𝕔𝕚𝕒𝕝 𝕞𝕖𝕕𝕚𝕒:</h3>
-<p align="left">
+### TECH STACK I LEARNED
+<p>
+<img src="https://skillicons.dev/icons?i=py,linux,html,js,php,mysql,c,cpp,unity" />
+<img src="https://cdn.simpleicons.org/elastic/005571" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/meta/0668F5" width="48" height="48" />
+</p>
 
-<a href="https://www.facebook.com/profile.php?id=100075907268392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tama" height="30" width="40" /></a>
-<a href="https://instagram.com/mctamaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mctamaaa" height="30" width="40" /></a>
+<br/>
 
-<a href="https://tamayana.github.io/tama-music/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="soundcloud" height="30" width="40" /></a>
-</p> 
+<!-- GITHUB STATS -->
+<img src="https://github-profile-trophy.vercel.app/?username=tamayana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" />
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6285393659857?text=halo+bang+Tama+ganteng)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/tama_282)
- 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20"/>&nbsp;Just Random Stats & Activity
+<br/>
 
-[![An image of @abnvlf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abnvlf)](https://holopin.io/@abnvlf)
+<img src="https://github-readme-stats.vercel.app/api?username=tamayana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamayana&theme=tokyonight&hide_border=true&background=00000000&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="48%" />
 
-<!--START_SECTION:waka-->
+<br/><br/>
 
-```txt
-Svelte                     786 hrs 42 mins █████████████▒░░░░░░░░░░░   53.87 %
-TypeScript                 331 hrs 33 mins █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-PHP                        105 hrs 36 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-SQL                        77 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Blade Template             43 hrs 45 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-```
+<!-- ULAR KONTRIBUSI GITHUB - INI YANG GERAK SANA SINI MAKAN KOTAK -->
+<img src="https://raw.githubusercontent.com/tamayana/tamayana/output/github-contribution-grid-snake.svg" alt="snake eating contributions" width="100%"/>
+<img src="https://raw.githubusercontent.com/tamayana/tamayana/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark" width="100%"/>
 
-<!--END_SECTION:waka-->
+<br/>
 
-<img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=tamayana&label=Profile%20views&color=6d28d9&style=for-the-badge" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:6d28d9&section=footer&text=Mr.Tamaaa&fontColor=ffffff&fontSize=24&animation=fadeIn" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markzuckerberg-kode&label=Profile%20views&color=0e75b6&style=flat" alt="markzuckerberg-kode" /> </p>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-       
+</div>

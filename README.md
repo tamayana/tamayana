@@ -4,7 +4,7 @@
 
 <!-- CLOCK_START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🕒_10%3A32%3A15_WIB-8A2BE2?style=for-the-badge&labelColor=000000&logo=clockify&logoColor=white" alt="time" />
+  <img src="https://img.shields.io/badge/🕒_11:39:31_WIB-8A2BE2?style=for-the-badge&labelColor=000000&logo=clockify&logoColor=white" alt="time" />
 </p>
 <!-- CLOCK_END -->
 

@@ -13,7 +13,7 @@
 <br/>
 
 <!-- GAMBAR 1: ORANG DUDUK - PONTIANAK FIX -->
-<img src="assets/mr-tamaaa-desk.png" width="750" alt="Mr.Tamaaa Desk - Pontianak"/>
+<img src="mr-tamaaa-desk.png" width="750" alt="Mr.Tamaaa Desk - Pontianak"/>
 
 <br/>
 
@@ -23,7 +23,7 @@
 <br/>
 
 <!-- GAMBAR 2: CODE SCROLL TERUS -->
-<img src="assets/code-scroll.gif" width="750" alt="Code Scrolling - L.marker Pontianak"/>
+<img src="mr-tamaaa-desk.png" width="750" alt="Code Scrolling - L.marker Pontianak"/>
 
 <br/><br/>
 

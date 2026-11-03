@@ -2,12 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/tamayana/tamayana/main/mr-tamaaa-desk.gif" width="100%" alt="Mr.Tamaaa Desk" />
 
-<!-- CLOCK_START -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🕒_11%3A49_WIB-8A2BE2?style=for-the-badge&labelColor=000000&logo=clockify&logoColor=white" alt="time" />
-</p>
-<!-- CLOCK_END -->
-
 ---
 
 # I'm Mr.Tamaaa
@@ -73,11 +67,11 @@ create one yourself."
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamayana&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamayana&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamayana&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=tamayana&theme=tokyonight&hide_border=true&background=000000" alt="streak" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=tamayana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="stats" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamayana&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" alt="langs" />
 
 </div>
 
@@ -93,7 +87,7 @@ create one yourself."
 
 <div align="center">
 
-**© 2026 Rahmad Pratama. All Rights Reserved.**
+© 2026 Rahmad Pratama. All Rights Reserved.
 
 *Hak Cipta Dilindungi Undang-Undang*
 

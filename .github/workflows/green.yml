@@ -1,0 +1,38 @@
+name: Green Tama
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Jalan tiap 4 jam
+  workflow_dispatch: # Biar bisa lu jalanin manual juga
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Activity File (AMAN, GAK NYENTUH README)
+        run: |
+          export TZ="Asia/Jakarta"
+          TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S WIB")
+          echo "Last activity Mr.Tamaaa: $TIMESTAMP" > activity.txt
+          echo "Explorer | Builder | Learner - Pontianak, West Kalimantan" >> activity.txt
+          echo "TamaBotWa & MCTama still active!" >> activity.txt
+
+      - name: Configure Git
+        run: |
+          git config user.name "tamayana"
+          git config user.email "tamayana@gmail.com"
+          # GANTI INI PAKE EMAIL GITHUB LU YANG ASLI BUNG!
+
+      - name: Commit changes
+        run: |
+          git add activity.txt
+          git commit -m "chore: auto activity update" || echo "No changes to commit"
+
+      - name: Push changes
+        run: |
+          git push origin main

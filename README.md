@@ -10,6 +10,18 @@
   <img src="./java.gif" width="450" />
 </p>
 
+___
+
+### 💻 CURRENTLY CODING
+
+<div align="center">
+
+<img src="mr_tamaaa_typing.gif" width="600" alt="Mr.Tamaaa typing animation" />
+
+</div>
+
+---
+
 ### Explorer | Builder | Learner
 
 </div>
@@ -54,16 +66,6 @@ create one yourself."
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,linux,html,js,php,c,cpp,cs,unity,vscode,github" />
 </p>
-
----
-
-### 💻 CURRENTLY CODING
-
-<div align="center">
-
-<img src="mr_tamaaa_typing.gif" width="600" alt="Mr.Tamaaa typing animation" />
-
-</div>
 
 ---
 
